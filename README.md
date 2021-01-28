@@ -12,5 +12,5 @@
 
 # Evaluation
 - Metric: Pinball Loss
-- Public Score : 41th(8.8%) / 1.82946(Pinball Loss)
-- Private Score: 78th(16.8%) / 2.09796(Pinball Loss)
+- Public Score : 41th(8.8%) / 1.82946
+- Private Score: 78th(16.8%) / 2.09796
