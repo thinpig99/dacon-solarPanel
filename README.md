@@ -3,7 +3,7 @@
 - Goal: Using weather data and historical power generation data to predict solar power generation by time
 - Category: Quantile Regression, Time Series Forecast
 - Tool Used: python, pandas, sklearn, tensorflow
-- Period: June, 2020 ~ July, 2020
+- Period: Dec, 2020 ~ Jan, 2021
 
 # Data
 - Data: Weather Data, Solar Power Data
